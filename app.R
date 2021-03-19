@@ -12,9 +12,6 @@
     library(sp)
     
     # Get google api key and register
-    # The top key is Mizzou's Google api key, which won't work on my home network.
-    # Remember to switch to Mizzou's api key before uploading.
-    #apikey <- 'AIzaSyAYRgk8P0_7zwIhPsOlTcX8gShnW713ugE'
     apikey ='AIzaSyBXyHYUVZMJopu3T8Ao2RRdNEyKLl5Arvo'
     register_google(key = apikey)
     
